@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinanceManager</string>
+    <string name="monthlyName">Daily Equity: </string>
+    <string name="totalFiller">$</string>
+    <string name="editContent">Edit Button</string>
+    <string name="upDownContent">Positive or Negative Sign</string>
+    <!--menu-->
+    <string name="menu_view">View</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="cancel_but">Cancel</string>
+    <string name="save_but">OK</string>
+    <!--text-->
+    <string name="name_text">Name:</string>
+    <string name="notes_text">Notes:</string>
+    <string name="posNeg_text">Increase/Decrease:</string>
+    <string name="amount_text">Amount:</string>
+
+</resources>
